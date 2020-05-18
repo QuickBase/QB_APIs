@@ -163,7 +163,7 @@ else:
 #    r'Driver=ODBC Driver 13 for SQL Server;'
 #    #Replace below!... input your server name
 #    r'Server=YOUR_SERVER_HERE;'
-#    #Replace below!... input your server name
+#    #Replace below!... input your database name
 #    r'Database=YOUR_DATABASE_HERE;'
 #    r'Trusted_Connection=yes:'
 #    #r'UID=username;'
